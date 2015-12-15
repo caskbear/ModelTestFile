@@ -1,0 +1,2 @@
+# ModelTestFile
+test for cocoapods 
